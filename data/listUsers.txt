@@ -1,0 +1,4 @@
+0,jeisson,admin,asd
+1,Rodriguez,admin,asd
+2,Prieto,admin,asd
+3,ELFAR,cliente,asd
